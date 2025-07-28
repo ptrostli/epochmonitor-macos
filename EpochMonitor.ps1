@@ -5,7 +5,7 @@ $log                     = "C:\Temp\Epoch-log.txt"
 $delaySeconds            = 15
 $NotificationOnChange    = $true   # notify when state changes
 $NotificationWhenDown    = $false  # notify every check while DOWN
-$showTestNotification    = $true   # pop a test at start
+$showTestNotification    = $true   # pop a test at start to see that notifications pop up as they should
 $LogToFile               = $false
 $log                     = "C:\Temp\Epoch-log.txt"
 # ----------------------------
