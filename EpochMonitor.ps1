@@ -1,7 +1,6 @@
 ﻿# ---------- Config ----------
 $server                  = "game.project-epoch.net"
 $port                    = 3724
-$log                     = "C:\Temp\Epoch-log.txt"
 $delaySeconds            = 15
 $NotificationOnChange    = $true   # notify when state changes
 $NotificationWhenDown    = $false  # notify every check while DOWN
